@@ -1,5 +1,8 @@
 # Bot Tài Chính
 
+
+**Nhắn một dòng chi tiêu vào Telegram → bot tự ghi vào sổ thu chi cho bạn.**
+
 A Telegram bot that tracks personal and small-business income and expenses.
 
 
