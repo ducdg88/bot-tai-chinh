@@ -6,6 +6,8 @@ A Telegram bot that tracks personal and small-business income and expenses.
 
 **Nhắn một dòng chi tiêu vào Telegram → bot tự ghi vào sổ thu chi cho bạn.**
 
+**Text one line of spending to Telegram → the bot logs it into your income/expense ledger for you.**
+
 Bot Telegram theo dõi thu chi cá nhân và doanh nghiệp nhỏ.
 
 
